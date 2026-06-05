@@ -1,2 +1,2 @@
 # test2
-GitHubの練習をしています
+GitHubの練習をしていますよ
